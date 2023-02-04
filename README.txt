@@ -1,5 +1,5 @@
 HELLO I'm The Developer Of This Code Made By Me : Shaikh Zayan Siddiqui
-You Can Make Any Type Of Qr Code By This Api Maker 
+You Can Make Any Type Of Qr Code By This Api Maker.
 Enjoy <3
 
 Social Media.
